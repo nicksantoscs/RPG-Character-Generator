@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="COMP1004_F2016_Mid_Term_Exam.Character">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAABBAAAAAAAAACAAAACA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="COMP1004_F2016_Mid_Term_Exam.Ability">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAABBAAAAAAAAACAAAACA=</HashCode>
+      <FileName>Ability.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

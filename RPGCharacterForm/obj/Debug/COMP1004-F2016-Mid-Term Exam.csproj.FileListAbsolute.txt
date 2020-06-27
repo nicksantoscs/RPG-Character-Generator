@@ -1,0 +1,14 @@
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\bin\Debug\COMP123-S2016-Lesson13.exe.config
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\bin\Debug\COMP123-S2016-Lesson13.exe
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\bin\Debug\COMP123-S2016-Lesson13.pdb
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004-F2016-Mid-Term Exam.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.AbilityGeneratorForm.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.AboutBox.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.FinalForm.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.GenerateNameForm.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.Properties.Resources.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004_F2016_Mid_Term_Exam.RaceAndClassForm.resources
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP1004-F2016-Mid-Term Exam.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP123-S2016-Lesson13.exe
+C:\Users\Tom\Documents\COMP1004\COMP1004-F2016-Mid-Term Exam\COMP1004-F2016-Mid-Term Exam\obj\Debug\COMP123-S2016-Lesson13.pdb
